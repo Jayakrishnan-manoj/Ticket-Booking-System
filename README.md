@@ -18,7 +18,6 @@
 - Classes and Objects
 - Constructors
 - Friend Functions
-- Inheritance
 - Operator Overloading
 - Error Handling
 - Switch Cases
